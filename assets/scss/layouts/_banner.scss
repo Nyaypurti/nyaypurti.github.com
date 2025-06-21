@@ -193,14 +193,8 @@
                 // @include border(green);
                 margin-top: 34px;
                 margin-bottom: 40px;
-                height: 88px;
-                width: 248px;
+                height:100px;
                 flex-shrink: 0;
-
-                
-                
-
-
                 ul{
                     display: flex;
                     flex-wrap: wrap;
@@ -212,7 +206,6 @@
 
                             img{
                                 width: auto;
-                                height: 26px;
                                 flex-shrink: 0;
 
                                 body.dark & {  
