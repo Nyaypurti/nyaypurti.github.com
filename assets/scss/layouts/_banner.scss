@@ -254,18 +254,14 @@
                 position: absolute;
                 bottom: 0px;
                 right: -50px;
-
                 @include custom_responsive(0px, 991.9px){
                     position: relative;
                     bottom: 60px;
                 }
 
                 img{
-                    
-
                     @include custom_responsive(0px, 991.9px){
-                        width: 40vw;
-
+                    width: 40vw;
                     }
                 }
 
