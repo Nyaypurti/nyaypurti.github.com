@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nyaypurti Foundation</title><link>https://nyaypurti.github.io/Nyaypurti/</link><description>Recent content on Nyaypurti Foundation</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 04 Jun 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://nyaypurti.github.io/Nyaypurti/index.xml" rel="self" type="application/rss+xml"/><item><title>How to win cases easy</title><link>https://nyaypurti.github.io/Nyaypurti/blog/post-1/</link><pubDate>Wed, 04 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/blog/post-1/</guid><description>&lt;p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p></description></item><item><title>Dont Trust Us, Hear It From Our Clients</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Piyush Tandon</title><link>https://nyaypurti.github.io/Nyaypurti/authors/piyush-tandon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/authors/piyush-tandon/</guid><description>&lt;p>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p></description></item><item><title>Privacy</title><link>https://nyaypurti.github.io/Nyaypurti/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors">Responsibility of Contributors&lt;/h4>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nyaypurti Foundation</title><link>https://nyaypurti.github.io/Nyaypurti/</link><description>Recent content on Nyaypurti Foundation</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 04 Jun 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://nyaypurti.github.io/Nyaypurti/index.xml" rel="self" type="application/rss+xml"/><item><title>How to win cases easy</title><link>https://nyaypurti.github.io/Nyaypurti/blog/post-1/</link><pubDate>Wed, 04 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/blog/post-1/</guid><description>&lt;p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p></description></item><item><title>Dont Trust Us, Hear It From Our Clients</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Elements</title><link>https://nyaypurti.github.io/Nyaypurti/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/elements/</guid><description>&lt;details class="table-of-content ">
+ &lt;summary>
+ 
+ Table of Contents
+ 
+ &lt;/summary>
+ &lt;nav id="TableOfContents">
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-2">Heading 2&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-3">Heading 3&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-4">Heading 4&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-5">Heading 5&lt;/a>&lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;li>&lt;a href="#emphasis">Emphasis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#button">Button&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#link">Link&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#paragraph">Paragraph&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ordered-list">Ordered List&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#unordered-list">Unordered List&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#notice">Notice&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tab">Tab&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#accordions">Accordions&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#code-and-syntax-highlighting">Code and Syntax Highlighting&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#blockquote">Blockquote&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tables">Tables&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#image">Image&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#gallery">Gallery&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#slider">Slider&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#youtube-video">Youtube video&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#custom-video">Custom video&lt;/a>&lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;/ol>
+&lt;/nav>
+&lt;/details>
+
+&lt;p>Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code>#&lt;/code> for heading 1 and use &lt;code>######&lt;/code> for heading 6.&lt;/p></description></item><item><title>Piyush Tandon</title><link>https://nyaypurti.github.io/Nyaypurti/authors/piyush-tandon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/authors/piyush-tandon/</guid><description>&lt;p>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p></description></item><item><title>Privacy</title><link>https://nyaypurti.github.io/Nyaypurti/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors">Responsibility of Contributors&lt;/h4>
 &lt;h4 id="gathering-of-personal-information">Gathering of Personal Information&lt;/h4>
 &lt;h4 id="protection-of-personal--information">Protection of Personal- Information&lt;/h4>
 &lt;h4 id="privacy-policy-changes">Privacy Policy Changes&lt;/h4></description></item><item><title>Ready For Nyaypurti For As Your Next Legal Partner</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item></channel></rss>
