@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Nyaypurti Foundation</title><link>https://nyaypurti.github.io/Nyaypurti/categories/</link><description>Recent content in Categories on Nyaypurti Foundation</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://nyaypurti.github.io/Nyaypurti/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Cases</title><link>https://nyaypurti.github.io/Nyaypurti/categories/cases/</link><pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/categories/cases/</guid><description/></item><item><title>Constitution</title><link>https://nyaypurti.github.io/Nyaypurti/categories/constitution/</link><pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/categories/constitution/</guid><description/></item><item><title>Human Rights</title><link>https://nyaypurti.github.io/Nyaypurti/categories/human-rights/</link><pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/categories/human-rights/</guid><description/></item><item><title>Legal</title><link>https://nyaypurti.github.io/Nyaypurti/categories/legal/</link><pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/categories/legal/</guid><description/></item><item><title>Legal Aid</title><link>https://nyaypurti.github.io/Nyaypurti/categories/legal-aid/</link><pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/categories/legal-aid/</guid><description/></item><item><title>Public Policy</title><link>https://nyaypurti.github.io/Nyaypurti/categories/public-policy/</link><pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/categories/public-policy/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Nyaypurti Foundation</title>
+    <link>http://localhost:1313/Nyaypurti/categories/</link>
+    <description>Recent content in Categories on Nyaypurti Foundation</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Nyaypurti/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Law</title>
+      <link>http://localhost:1313/Nyaypurti/categories/law/</link>
+      <pubDate>Wed, 25 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Nyaypurti/categories/law/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cases</title>
+      <link>http://localhost:1313/Nyaypurti/categories/cases/</link>
+      <pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Nyaypurti/categories/cases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constitution</title>
+      <link>http://localhost:1313/Nyaypurti/categories/constitution/</link>
+      <pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Nyaypurti/categories/constitution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human Rights</title>
+      <link>http://localhost:1313/Nyaypurti/categories/human-rights/</link>
+      <pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Nyaypurti/categories/human-rights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legal</title>
+      <link>http://localhost:1313/Nyaypurti/categories/legal/</link>
+      <pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Nyaypurti/categories/legal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legal Aid</title>
+      <link>http://localhost:1313/Nyaypurti/categories/legal-aid/</link>
+      <pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Nyaypurti/categories/legal-aid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Public Policy</title>
+      <link>http://localhost:1313/Nyaypurti/categories/public-policy/</link>
+      <pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Nyaypurti/categories/public-policy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
