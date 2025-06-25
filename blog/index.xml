@@ -1,33 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog Posts on Nyaypurti Foundation</title>
-    <link>http://localhost:1313/Nyaypurti/blog/</link>
-    <description>Recent content in Blog Posts on Nyaypurti Foundation</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Nyaypurti/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Understanding Uniform Civil Code</title>
-      <link>http://localhost:1313/Nyaypurti/blog/understanding_uniform_civil_code/</link>
-      <pubDate>Wed, 25 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Nyaypurti/blog/understanding_uniform_civil_code/</guid>
-      <description>&lt;center&gt;&#xA;&lt;h1&gt;&lt;strong&gt;&lt;u&gt;Understanding Uniform Civil Code&lt;/u&gt;&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;(Author: Mr. Mayank Upadhyay, IV year law student from Delhi&#xA;Metropolitan Education, Noida)&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Village Without Light: Pankaj’s Plea from Khirbi</title>
-      <link>http://localhost:1313/Nyaypurti/blog/post-1/</link>
-      <pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Nyaypurti/blog/post-1/</guid>
-      <description>&lt;h1 id=&#34;a-village-without-light-pankajs-plea-from-khirbi&#34;&gt;A Village Without Light: Pankaj’s Plea from Khirbi&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;“We’re not asking for luxuries—just light, water, and a right to live.”&lt;/strong&gt;&#xA;&lt;img src=&#34;http://localhost:1313/Nyaypurti/images/pankanj_blog_1_2025.png&#34; alt=&#34;pankanj poster&#34;&gt;&#xA;&lt;strong&gt;— Pankaj, resident of Khirbi&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/Nyaypurti/blog/myfilename/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Nyaypurti/blog/myfilename/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Understanding Uniform Civil Code&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;(Author: Mr. Mayank Upadhyay, IV year law student from Delhi&#xA;Metropolitan Education, Noida)&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog Posts on Nyaypurti Foundation</title><link>https://nyaypurti.github.io/Nyaypurti/blog/</link><description>Recent content in Blog Posts on Nyaypurti Foundation</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 25 Jun 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://nyaypurti.github.io/Nyaypurti/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Uniform Civil Code</title><link>https://nyaypurti.github.io/Nyaypurti/blog/understanding_uniform_civil_code/</link><pubDate>Wed, 25 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/blog/understanding_uniform_civil_code/</guid><description>&lt;center>
+&lt;h1>&lt;strong>&lt;u>Understanding Uniform Civil Code&lt;/u>&lt;/strong>&lt;/h1>
+&lt;p>&lt;em>(Author: Mr. Mayank Upadhyay, IV year law student from Delhi
+Metropolitan Education, Noida)&lt;/em>&lt;/p></description></item><item><title>A Village Without Light: Pankaj’s Plea from Khirbi</title><link>https://nyaypurti.github.io/Nyaypurti/blog/post-1/</link><pubDate>Mon, 23 Jun 2025 05:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/blog/post-1/</guid><description>&lt;h1 id="a-village-without-light-pankajs-plea-from-khirbi">A Village Without Light: Pankaj’s Plea from Khirbi&lt;/h1>
+&lt;p>&lt;strong>“We’re not asking for luxuries—just light, water, and a right to live.”&lt;/strong>
+&lt;img src="https://nyaypurti.github.io/Nyaypurti/images/pankanj_blog_1_2025.png" alt="pankanj poster">
+&lt;strong>— Pankaj, resident of Khirbi&lt;/strong>&lt;/p></description></item><item><title/><link>https://nyaypurti.github.io/Nyaypurti/blog/myfilename/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nyaypurti.github.io/Nyaypurti/blog/myfilename/</guid><description>&lt;p>&lt;strong>&lt;u>Understanding Uniform Civil Code&lt;/u>&lt;/strong>&lt;/p>
+&lt;p>&lt;em>(Author: Mr. Mayank Upadhyay, IV year law student from Delhi
+Metropolitan Education, Noida)&lt;/em>&lt;/p></description></item></channel></rss>
